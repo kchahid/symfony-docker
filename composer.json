@@ -1,6 +1,7 @@
 {
     "name": "symfont/docker",
     "description": "sample symfony-docker project",
+    "keywords": ["symfony", "docker", "nginx"],
     "minimum-stability": "stable",
     "license": "MIT",
     "prefer-stable": true,
