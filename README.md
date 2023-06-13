@@ -72,7 +72,7 @@ http://127.0.0.1:8080
 <!-- License -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [Licence](https://github.com/kchahid/symfony-docker/blob/main/LICENSE) for more information.
 
 <!-- Contact -->
 ## Contact
